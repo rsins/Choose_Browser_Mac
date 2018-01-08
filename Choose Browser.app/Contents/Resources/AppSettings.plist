@@ -39,6 +39,7 @@
 		<string>http</string>
 		<string>https</string>
 		<string>file</string>
+		<string>ftp</string>
 	</array>
 	<key>UniformTypes</key>
 	<array>
