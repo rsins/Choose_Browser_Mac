@@ -3,7 +3,8 @@ AppleScript based app to allow users to choose from different browsers while ope
 
 Open the app at least once and then go to Mac Preferences -> General. Then select "Choose Browser.app" as default app for browser.
 
-Download [Choose Browser.zip](https://github.com/rsins/Choose_Browser_Mac/raw/master/Choose%20Browser.zip)
+* For Tahoe (MacOS 26) and below, download [Choose_Browser_V1.zip](https://github.com/rsins/Choose_Browser_Mac/raw/master/Choose_Browser_V1.zip)
+* For Tahoe (MacOS 26) and above, download [Choose_Browser_V2.zip](https://github.com/rsins/Choose_Browser_Mac/raw/master/Choose_Browser_V2.zip)
 
 # Dependencies
 For some functionalities to work (press shift key while ChooseBrowser opens, this results in popup to be shown) - 
